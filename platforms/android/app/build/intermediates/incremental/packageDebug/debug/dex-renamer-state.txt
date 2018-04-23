@@ -1,0 +1,4 @@
+#Sun Apr 22 21:31:05 BOT 2018
+base.0=/Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

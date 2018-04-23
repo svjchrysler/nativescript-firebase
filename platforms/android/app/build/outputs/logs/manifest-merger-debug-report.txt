@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/aec7e17d85b35fbeb01aea5c5d2471bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/f95ac2400585a5f3758881d171e7f39b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/326f3a38cf0d790f2ca4753b39d62818/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0b75b71ebb9a3fecaabbf4a98eefa2f1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/59409cff89a40dd0c922463d0acd37dd/AndroidManifest.xml:17:1-31:12
+MERGED from [:nativescript-optimized:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/ff00ba6b5ac36c7959d8a6462ebd0ea7/AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:2:1-23:12
+MERGED from [:widgets-release:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/9784eddcfa4f6aabc0c4736e4b129640/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2bb787028c0c84aebb0491430b2c49f7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/994dadff03a64d26adf08c048408e1f7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/f223b31b92f0df3bcbcd69d7021fb3f4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/6e2ee196ab53a2632ae5119db14a8f82/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f212f84e6001d2f34c6f7da4284b359e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/4b5476bc4b7af0ba384e2022bba6950f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/7fcab225af2257d0ffd291cf8a687594/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7a8237729ba6c42a9996b51491272fc7/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:3:2-49
+		INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:multidex:1.0.2] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/aec7e17d85b35fbeb01aea5c5d2471bb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/aec7e17d85b35fbeb01aea5c5d2471bb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/f95ac2400585a5f3758881d171e7f39b/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/f95ac2400585a5f3758881d171e7f39b/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/326f3a38cf0d790f2ca4753b39d62818/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/326f3a38cf0d790f2ca4753b39d62818/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0b75b71ebb9a3fecaabbf4a98eefa2f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0b75b71ebb9a3fecaabbf4a98eefa2f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/59409cff89a40dd0c922463d0acd37dd/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/59409cff89a40dd0c922463d0acd37dd/AndroidManifest.xml:21:5-23:54
+MERGED from [:nativescript-optimized:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/ff00ba6b5ac36c7959d8a6462ebd0ea7/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/ff00ba6b5ac36c7959d8a6462ebd0ea7/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:7:5-47
+MERGED from [:widgets-release:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/9784eddcfa4f6aabc0c4736e4b129640/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/9784eddcfa4f6aabc0c4736e4b129640/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2bb787028c0c84aebb0491430b2c49f7/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2bb787028c0c84aebb0491430b2c49f7/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/994dadff03a64d26adf08c048408e1f7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/994dadff03a64d26adf08c048408e1f7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/f223b31b92f0df3bcbcd69d7021fb3f4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/f223b31b92f0df3bcbcd69d7021fb3f4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/6e2ee196ab53a2632ae5119db14a8f82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/6e2ee196ab53a2632ae5119db14a8f82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f212f84e6001d2f34c6f7da4284b359e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f212f84e6001d2f34c6f7da4284b359e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/4b5476bc4b7af0ba384e2022bba6950f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/4b5476bc4b7af0ba384e2022bba6950f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/7fcab225af2257d0ffd291cf8a687594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/7fcab225af2257d0ffd291cf8a687594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7a8237729ba6c42a9996b51491272fc7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7a8237729ba6c42a9996b51491272fc7/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/f95ac2400585a5f3758881d171e7f39b/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml
+		MERGED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/f95ac2400585a5f3758881d171e7f39b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/f95ac2400585a5f3758881d171e7f39b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/326f3a38cf0d790f2ca4753b39d62818/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/326f3a38cf0d790f2ca4753b39d62818/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0b75b71ebb9a3fecaabbf4a98eefa2f1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0b75b71ebb9a3fecaabbf4a98eefa2f1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/59409cff89a40dd0c922463d0acd37dd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/59409cff89a40dd0c922463d0acd37dd/AndroidManifest.xml:29:5-20
+MERGED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:11:5-21:19
+MERGED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:11:5-21:19
+MERGED from [:widgets-release:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/9784eddcfa4f6aabc0c4736e4b129640/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/9784eddcfa4f6aabc0c4736e4b129640/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2bb787028c0c84aebb0491430b2c49f7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2bb787028c0c84aebb0491430b2c49f7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/994dadff03a64d26adf08c048408e1f7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/994dadff03a64d26adf08c048408e1f7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/f223b31b92f0df3bcbcd69d7021fb3f4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/f223b31b92f0df3bcbcd69d7021fb3f4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f212f84e6001d2f34c6f7da4284b359e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f212f84e6001d2f34c6f7da4284b359e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/4b5476bc4b7af0ba384e2022bba6950f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/4b5476bc4b7af0ba384e2022bba6950f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/7fcab225af2257d0ffd291cf8a687594/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/7fcab225af2257d0ffd291cf8a687594/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7a8237729ba6c42a9996b51491272fc7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7a8237729ba6c42a9996b51491272fc7/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/f95ac2400585a5f3758881d171e7f39b/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/326f3a38cf0d790f2ca4753b39d62818/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/326f3a38cf0d790f2ca4753b39d62818/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0b75b71ebb9a3fecaabbf4a98eefa2f1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0b75b71ebb9a3fecaabbf4a98eefa2f1/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/59409cff89a40dd0c922463d0acd37dd/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/59409cff89a40dd0c922463d0acd37dd/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2bb787028c0c84aebb0491430b2c49f7/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2bb787028c0c84aebb0491430b2c49f7/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/994dadff03a64d26adf08c048408e1f7/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/994dadff03a64d26adf08c048408e1f7/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/f223b31b92f0df3bcbcd69d7021fb3f4/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/f223b31b92f0df3bcbcd69d7021fb3f4/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/6e2ee196ab53a2632ae5119db14a8f82/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/6e2ee196ab53a2632ae5119db14a8f82/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f212f84e6001d2f34c6f7da4284b359e/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/f212f84e6001d2f34c6f7da4284b359e/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/4b5476bc4b7af0ba384e2022bba6950f/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/4b5476bc4b7af0ba384e2022bba6950f/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/7fcab225af2257d0ffd291cf8a687594/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/7fcab225af2257d0ffd291cf8a687594/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7a8237729ba6c42a9996b51491272fc7/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7a8237729ba6c42a9996b51491272fc7/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/f95ac2400585a5f3758881d171e7f39b/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/f95ac2400585a5f3758881d171e7f39b/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.CAMERA
+ADDED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:9:22-62
+provider#android.support.v4.content.FileProvider
+ADDED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:nativescript_camera:] /Users/svjchrysler/.gradle/caches/transforms-1/files-1.1/nativescript_camera.aar/942c29e1fd3701f1afc0c9440d3113fe/AndroidManifest.xml:18:17-67

@@ -1,0 +1,1 @@
+/Users/svjchrysler/Projects/NativeScript/nativescript-firebase/platforms/android/app/src/main/java
